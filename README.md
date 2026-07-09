@@ -1,2 +1,2 @@
 # demo-workspaces
-A list minimal and complete showcases of fully functional memory tools
+A list of minimal and complete showcases of fully functional memory tools
